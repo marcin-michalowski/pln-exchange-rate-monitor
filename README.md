@@ -1,8 +1,8 @@
-# 💱 PLN Exchange Rate Monitor (2020-2026)
+# 💱 PLN Exchange Rate Monitor 
 
 **Analysis of EUR, USD, CHF and GBP exchange rates against the Polish złoty and the currency risk they create for importers**
 
-> Interactive Power BI report built on live data from the National Bank of Poland (NBP) API. It covers almost 7 years of daily exchange rates (Jan 2020 - Oct 2026) and analyses data quality, rate trends, volatility and market anomalies. The report refreshes automatically, and all commentary updates with the data.
+> Interactive Power BI report built on live data from the National Bank of Poland (NBP) API. It covers daily exchange rates since January 2020, extended automatically with every refresh, and analyses data quality, rate trends, volatility and market anomalies. The report refreshes automatically, and all commentary updates with the data.
 
 ---
 
@@ -17,7 +17,7 @@ This project analyses daily average exchange rates (NBP table A) for four major 
 - Volatility & Risk - annualised and 30-day rolling volatility by currency
 - Anomalies - days with unusually large rate moves, detected with a consistent statistical rule
 
-## 📈 Key Insights
+## 📈 Key Insights (as of 20 Oct 2026)
 
 - **CHF/PLN** rose the most, by 20.5% since January 2020 (3.92 → 4.72), making CHF-denominated purchases significantly more expensive
 - **USD** was the most volatile currency (10.5% annualised), while **EUR** was the most stable (5.8%)
