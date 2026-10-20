@@ -56,10 +56,8 @@ pln-exchange-rate-monitor/
 
 ## 📸 Report Preview
 
-![Front Page](screenshots/front_page.jpg)
 ![Data Profile](screenshots/data_profile.jpg)
 ![Overview](screenshots/overview.jpg)
-![Volatility and Risk](screenshots/volatility_risk.jpg)
 ![Anomalies](screenshots/anomalies.jpg)
 
 ---
